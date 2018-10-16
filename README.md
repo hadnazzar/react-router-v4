@@ -1,5 +1,5 @@
-# Demo link below
-https://hadnazzar.github.io/react-router-v4/
+# Demo link: https://hadnazzar.github.io/react-router-v4/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
